@@ -5063,3 +5063,12 @@
     - transformers
     - javascript
     - webgpu
+
+- local: openenv-turing-meta-hf
+  date: Feb 10, 2026
+  tags:
+    - agents
+    - agentic
+    - reinforcement-learning
+    - openenv
+    - production
